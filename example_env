@@ -1,0 +1,11 @@
+SECRET_KEY=django-insecure-v!b=&-#mja=xhdk8typxggq#-$s5da&m6$16z65fofz89@wvg
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1 0.0.0.0
+
+DATABASE
+
+NAME=ubuntu
+USER=ubuntu
+PASSWORD=1
+HOST=db
+PORT=5432
